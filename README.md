@@ -1,4 +1,4 @@
-# Olá! Eu chamo-me Miguel Duarte Mota (MichaelGITHUBS), muito prazer!
+# Olá! Eu chamo-me Miguel (MichaelGITHUBS), muito prazer!
 
 ## Sobre mim: Eu sou um estudante da programação Python, iniciante, e estou em busca de mais aprendizado e conhecimento! 
 
